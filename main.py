@@ -35,5 +35,5 @@ km_label.grid(row=1, column=2)
 button = Button(text="Calculate", command=miles_to_km)
 button.grid(row=2, column=1)
 
-# This line must be at the ned of the program
+# This line must be at the end of the program
 window.mainloop()
